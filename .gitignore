@@ -2,3 +2,12 @@
 *.lck
 *-backups/
 ~*
+
+# Local editor history
+.history/
+
+# Reproducible fabrication intermediates; retain ZIP, notes and reports
+/fabrication/*/gerbers/
+/fabrication/*/checks/*.png
+/fabrication/*/checks/*.svg
+/fabrication/*/checks/netlist.xml

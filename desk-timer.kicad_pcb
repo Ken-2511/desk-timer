@@ -127,7 +127,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Light emitting diode"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -146,6 +146,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "6a1fde9a-7f83-495c-8383-9875c63740f4")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -327,7 +339,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Light emitting diode"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -346,6 +358,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "0abab1c7-408b-48b3-a8d4-69e6276283eb")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -527,7 +551,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Light emitting diode"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -546,6 +570,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "ec717ae2-5ead-4f15-acb5-766da0ece0ad")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -727,7 +763,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -878,7 +914,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, generic, two pins"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1126,7 +1162,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1274,7 +1310,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1530,7 +1566,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Light emitting diode"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1549,6 +1585,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "4a531cfc-25b3-48d2-8c57-1e7227aa9dbd")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -1730,7 +1778,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1988,7 +2036,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Buzzer, polarized"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2151,7 +2199,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2299,7 +2347,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Light emitting diode"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2318,6 +2366,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "fab5a6a1-35db-4390-be77-ace9bd22fe6a")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -2499,7 +2559,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2647,7 +2707,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2795,7 +2855,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2943,7 +3003,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3091,7 +3151,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Light emitting diode"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3110,6 +3170,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "1555b0c0-885f-489c-ad72-61b16f86898f")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -3402,7 +3474,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, generic, two pins"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3650,7 +3722,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3787,7 +3859,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3800,7 +3872,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Arduino Nano v3.x"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4155,7 +4227,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "unconnected-(U1-D1/TX-Pad1)")
+			(net "unconnected-(U1-D1{slash}TX-Pad1)")
 			(uuid "d1d8baad-517e-4122-abcc-80c757df7c8c")
 		)
 		(pad "2" thru_hole oval
@@ -4164,7 +4236,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "unconnected-(U1-D0/RX-Pad2)")
+			(net "unconnected-(U1-D0{slash}RX-Pad2)")
 			(uuid "25075672-5ef6-4e08-93fe-9a5a58b21bcd")
 		)
 		(pad "3" thru_hole oval

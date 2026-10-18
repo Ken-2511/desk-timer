@@ -1,0 +1,7 @@
+PCB fabrication: upload ../desk-timer-2026-10-18.zip
+2 layers; FR4; 80 x 50 mm (outline centerline); thickness 1.6 mm; outer copper 35 um (1 oz).
+Assembly: hand soldering. No PCBA assembly, solder-paste stencil or component-placement files are included.
+ZIP: 7 Gerber layers + separate PTH and NPTH Excellon drills + Gerber job file.
+ERC, DRC, unconnected, schematic parity checks: all 0. Five pre-existing ignored DRC categories remain unchanged; see checks/drc.json.
+Gerber bounds including the 0.05 mm outline stroke may show 80.05 x 50.05 mm; the finished outline follows the 80 x 50 mm centerline.
+The ZIP is generated from the current saved board; edits after export require regeneration.

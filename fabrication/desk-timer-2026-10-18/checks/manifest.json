@@ -1,0 +1,39 @@
+{
+  "board_dimensions_mm": [
+    80,
+    50
+  ],
+  "board_thickness_mm": 1.6,
+  "copper_layers": 2,
+  "material": "FR4",
+  "erc_violations": 0,
+  "drc_violations": 0,
+  "unconnected_items": 0,
+  "schematic_parity_issues": 0,
+  "plated_holes": 57,
+  "nonplated_holes": 4,
+  "source_sha256": {
+    "desk-timer.kicad_pcb": "88c2c2539b29fc439c1c03635d33a5e5cbafcd16e3a4be087ef47630c8f427eb",
+    "desk-timer.kicad_sch": "fca9383220fce53cd872cfe687a3e18da98295bb3cf8b2338eb743228afaffda",
+    "desk-timer.kicad_pro": "97866001dae26ed21b6600c524f3ab95e57a98b2ccd390c333e27fdb123e45e8"
+  },
+  "production_files_sha256": {
+    "desk-timer-B_Cu.gbl": "e8cd8c45df2955f5f669f4b4e35b3e1bc224f528f84cbdbdc16d918c970c13e5",
+    "desk-timer-B_Mask.gbs": "f7249fb44ae1c459b83b24887a3432dd756e95e3a8f65f01c448089407561b6d",
+    "desk-timer-B_Silkscreen.gbo": "421185dcdb61e7b261342b386ed370d082f6294152b1b752117805866d4b325f",
+    "desk-timer-Edge_Cuts.gm1": "0aad27e384cd4635710650c953148348998596933de4777a74bd0d01de69c85d",
+    "desk-timer-F_Cu.gtl": "4a9ea132e5b50836819e6789fb9e0bad462af61ca0c03df1f6a212cdbec82398",
+    "desk-timer-F_Mask.gts": "77e6dde6b608cd374f0989f3fb818c75a1967a61210e6485f2806aeed3c71102",
+    "desk-timer-F_Silkscreen.gto": "cb5c4a58db16064f4c5641c006438c56b27bfca6a892343c2d019dc4d223f207",
+    "desk-timer-job.gbrjob": "7576a5f44374e9d4846f38b5729e94665a5fa981a3b030310941916c236d1067",
+    "desk-timer-NPTH.drl": "cb1392cf5d6d4aeb81a264da51687b30380b81b792a323ed9dc3b1b22b971361",
+    "desk-timer-PTH.drl": "0d40c760a592f488fe0af38254955052d7c98b300189b544fe42464883ed3170"
+  },
+  "zip_sha256": "41ff1fe028e3e17f4c1498feb6a72b4637cfcc034a71cf9d3a96648110e9d80e",
+  "checks": [
+    "Gerber and Excellon independently parsed",
+    "Closed outline centerline dimensions 80 x 50 mm",
+    "All plated drill coordinates align with pads/vias on both copper layers",
+    "ZIP integrity and contents verified"
+  ]
+}

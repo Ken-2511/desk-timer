@@ -695,13 +695,7 @@
     "reuse_designators": true,
     "subpart_first_id": 65,
     "subpart_id_separator": 0,
-    "top_level_sheets": [
-      {
-        "filename": "desk-timer.kicad_sch",
-        "name": "desk-timer",
-        "uuid": "00000000-0000-0000-0000-000000000000"
-      }
-    ],
+    "top_level_sheets": [],
     "used_designators": "",
     "variants": []
   },
