@@ -2074,7 +2074,7 @@
     )
     (uuid "0efd2b97-10b8-42b4-ab79-6d441ab28bda")
   )
-  (label "LED1"
+  (label "LED6"
     (at 30.48 66.04 0)
     (effects
       (font
@@ -2094,7 +2094,7 @@
     )
     (uuid "1a015446-f5b0-48a1-a14b-df0443006be3")
   )
-  (label "LED2"
+  (label "LED5"
     (at 30.48 68.58 0)
     (effects
       (font
@@ -2114,7 +2114,7 @@
     )
     (uuid "7a1b8d8f-3fba-434b-bd22-068449b99305")
   )
-  (label "LED3"
+  (label "LED4"
     (at 30.48 71.12 0)
     (effects
       (font
@@ -2134,7 +2134,7 @@
     )
     (uuid "2414f36f-37de-4eb0-b8bd-5abe71d7e0be")
   )
-  (label "LED4"
+  (label "LED3"
     (at 30.48 73.66 0)
     (effects
       (font
@@ -2154,7 +2154,7 @@
     )
     (uuid "1cd3ef44-b7f3-4deb-824f-a066c9b41314")
   )
-  (label "LED5"
+  (label "LED2"
     (at 30.48 76.2 0)
     (effects
       (font
@@ -2174,7 +2174,7 @@
     )
     (uuid "d7075aba-7597-417c-8035-05806cb96063")
   )
-  (label "LED6"
+  (label "LED1"
     (at 30.48 78.74 0)
     (effects
       (font
@@ -2615,7 +2615,7 @@
         (justify left)
       )
     )
-    (property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
+    (property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
       (at 91.44 63.5 0)
       (effects
         (font
